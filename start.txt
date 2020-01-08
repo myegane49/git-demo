@@ -2,3 +2,5 @@ Test git quick start demo.
 edited
 
 some new changes here
+
+changes for stash example
