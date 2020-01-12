@@ -4,3 +4,5 @@ edited
 some new changes here
 
 changes for stash example
+
+updates for master 
